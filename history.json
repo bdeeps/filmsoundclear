@@ -1,0 +1,800 @@
+{
+  "title": "The history of film sound",
+  "tagline": "A century from pianists in the dark to helicopters flying over your head in Dolby Atmos.",
+  "intro": "Films began with no soundtrack at all: musicians played in the hall. In the late 1920s pictures learned to talk, and film-makers had to invent ways to record voices, add footsteps, build impossible sounds and play them back in big rooms. Tape, Dolby, computers and digital cinema each changed the craft, and India, the world's busiest film industry, invented playback singing and won an Oscar for its sound.",
+  "eras": [
+    {
+      "id": "silent",
+      "name": "Silent films, live sound",
+      "from": 1895,
+      "to": 1925,
+      "color": "#c49bff",
+      "summary": "Films have no soundtrack, so pianists, organists and orchestras play in the hall, and inventors try to chain a phonograph to a projector."
+    },
+    {
+      "id": "talkies",
+      "name": "Films learn to talk",
+      "from": 1926,
+      "to": 1939,
+      "color": "#ffb547",
+      "summary": "Sound on discs and then on the film itself arrives. Studios invent Foley, India makes its first talkies and playback singing is born."
+    },
+    {
+      "id": "stereo",
+      "name": "Stereo, tape and widescreen",
+      "from": 1940,
+      "to": 1974,
+      "color": "#ff7a59",
+      "summary": "Fantasia tries surround sound, magnetic tape and portable recorders change location sound, and widescreen films get stereo tracks."
+    },
+    {
+      "id": "dolby",
+      "name": "Dolby and the sound designers",
+      "from": 1975,
+      "to": 1989,
+      "color": "#5ce1a9",
+      "summary": "Noise reduction and matrix stereo reach ordinary cinemas, and a new job appears: the sound designer who builds a whole world of sound."
+    },
+    {
+      "id": "digital",
+      "name": "Digital and immersive",
+      "from": 1990,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Sound is edited on computers, delivered as digital files and placed in 3D with Dolby Atmos, and an Indian sound mixer wins an Oscar."
+    }
+  ],
+  "events": [
+    {
+      "year": 1895,
+      "date": "from 1895",
+      "era": "silent",
+      "art": "notes",
+      "title": "Silent films were never silent",
+      "who": "Cinema pianists, organists and orchestras",
+      "where": "Cinemas worldwide",
+      "country": "France",
+      "text": "From the first public film shows in the 1890s, films were usually accompanied by live music: a pianist, an organ or a small orchestra. Some halls added a person making sound effects, and in India and Japan live narrators explained the story.",
+      "why": "Audiences already expected sound with pictures, long before films could carry it.",
+      "box": "mix",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1900,
+      "date": "1900",
+      "era": "silent",
+      "art": "projector",
+      "title": "Films with a phonograph",
+      "who": "Phono-Cinéma-Théâtre",
+      "where": "Paris Exposition, France",
+      "country": "France",
+      "text": "At the 1900 Paris Exposition the Phono-Cinéma-Théâtre showed short films of famous actors and singers with sound from phonograph cylinders played alongside. Keeping the two in step was hard, and the sound was too quiet for a big hall.",
+      "why": "It showed the dream of talking pictures and its two big problems: sync and loudness.",
+      "box": "adr",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "15 April 1923",
+      "era": "silent",
+      "art": "soundwave",
+      "title": "Sound printed on the film",
+      "who": "Lee de Forest",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "Lee de Forest showed his Phonofilm system, which recorded sound as a strip of light and dark on the film itself, right beside the pictures. Because sound and picture shared one strip, they could not drift apart.",
+      "why": "Sound-on-film became the way nearly every film carried sound for 70 years.",
+      "box": "theatre",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 1926,
+      "date": "August 1926",
+      "era": "talkies",
+      "art": "notes",
+      "title": "Vitaphone: music and effects on disc",
+      "who": "Warner Bros. and Western Electric",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "Don Juan opened with a recorded orchestral score and sound effects played from large discs, one 16-inch record for each reel of film, turning at 33⅓ rpm. If a projectionist started a disc late, the whole reel was out of sync.",
+      "why": "It proved audiences would pay for recorded film sound.",
+      "box": "mix",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "6 October 1927",
+      "era": "talkies",
+      "art": "microphone",
+      "key": true,
+      "title": "The Jazz Singer talks",
+      "who": "Warner Bros.; Al Jolson",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "The Jazz Singer was mostly a silent film with a Vitaphone score, but in a few scenes Al Jolson sings and speaks in sync. The line \"You ain't heard nothin' yet\" thrilled audiences, and the film broke box-office records.",
+      "why": "It is traditionally credited with launching the talkie revolution.",
+      "box": "production",
+      "sources": [
+        5,
+        4
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "1929",
+      "era": "talkies",
+      "art": "clapper",
+      "key": true,
+      "title": "Jack Foley performs sound to picture",
+      "who": "Jack Foley",
+      "where": "Universal Studios, Hollywood, USA",
+      "country": "USA",
+      "text": "Universal turned its part-talkie musical Show Boat into a sound film, and Jack Foley and a small team performed footsteps and other sounds live while watching the film projected. His way of working spread to every studio.",
+      "why": "Artists who add everyday sounds in sync with the picture are still called Foley artists.",
+      "box": "foley",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1931,
+      "date": "14 March 1931",
+      "era": "talkies",
+      "art": "cinema",
+      "key": true,
+      "title": "India's first talkie: Alam Ara",
+      "who": "Ardeshir Irani",
+      "where": "Bombay (Mumbai), India",
+      "country": "India",
+      "text": "Alam Ara opened at the Majestic Cinema in Bombay. It was recorded with the Tanar single-system recorder, and because trains ran past the studio it was shot mostly between about 1 and 4 in the morning. Its seven songs made music part of Indian cinema from the start.",
+      "why": "It began India's sound era, and no print of it survives.",
+      "box": "production",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "talkies",
+      "art": "notes",
+      "title": "Playback singing",
+      "who": "Nitin Bose, Raichand Boral and Mukul Bose",
+      "where": "New Theatres, Calcutta (Kolkata), India",
+      "country": "India",
+      "text": "For the Bengali film Bhagya Chakra and its Hindi version Dhoop Chhaon, the songs were recorded first and actors mimed to them on set. Director Nitin Bose had the idea, with music director Raichand Boral and sound recordist Mukul Bose.",
+      "why": "Playback singing became the heart of Indian film music, a form of the same lip sync ADR uses.",
+      "box": "adr",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "13 November 1940",
+      "era": "stereo",
+      "art": "filmreel",
+      "key": true,
+      "title": "Fantasound surrounds the audience",
+      "who": "Walt Disney Studios and RCA",
+      "where": "Broadway Theatre, New York, USA",
+      "country": "USA",
+      "text": "Fantasia premiered with Fantasound, the first commercial film released in stereo, with speakers around the hall and music that could move between them. It needed so much equipment that only a handful of theatres could play it.",
+      "why": "It was the first try at surround sound, and it gave mixing the pan pot for moving sounds.",
+      "box": "mix",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1948,
+      "date": "1940s",
+      "era": "stereo",
+      "art": "soundwave",
+      "title": "Magnetic tape arrives",
+      "who": "AEG; Jack Mullin; Ampex",
+      "where": "Germany and USA",
+      "country": "Germany",
+      "text": "The German Magnetophon tape recorder, first shown in 1935 and greatly improved by high-frequency bias in the early 1940s, was brought to the USA after 1945. Ampex built its own machines by 1948, and studios soon recorded and edited film sound on magnetic tape and film.",
+      "why": "Tape could be cut, copied and re-recorded without losing quality, which made complex sound editing possible.",
+      "box": "design",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1951,
+      "date": "1951",
+      "era": "stereo",
+      "art": "microphone",
+      "title": "A recorder you can carry",
+      "who": "Stefan Kudelski",
+      "where": "Switzerland",
+      "country": "Switzerland",
+      "text": "Stefan Kudelski's Nagra tape recorders were small, tough and ran on batteries. Later models with crystal sync could keep step with a camera without a cable, and from the 1960s to the 1990s they were the standard for recording sound on location.",
+      "why": "They freed production sound from the studio.",
+      "box": "production",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "September 1953",
+      "era": "stereo",
+      "art": "cinema",
+      "title": "Widescreen gets stereo",
+      "who": "20th Century Fox",
+      "where": "USA",
+      "country": "USA",
+      "text": "CinemaScope films such as The Robe carried four magnetic sound tracks on the print: left, centre and right behind the screen, plus a surround channel for effects.",
+      "why": "Speakers behind the screen and effects around the hall became the cinema layout.",
+      "box": "theatre",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965",
+      "era": "stereo",
+      "art": "chip",
+      "title": "Dolby cuts the hiss",
+      "who": "Ray Dolby",
+      "where": "London, England",
+      "country": "UK",
+      "text": "Ray Dolby founded Dolby Laboratories and built his A-type noise reduction for recording studios. It boosted quiet sounds before recording and lowered them again on playback, pushing tape hiss far down.",
+      "why": "Cleaner tracks let film sound get richer and louder without drowning in noise.",
+      "box": "mix",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "15 August 1975",
+      "era": "dolby",
+      "art": "filmreel",
+      "title": "Sholay in 70 mm stereo",
+      "who": "Ramesh Sippy",
+      "where": "Bombay (Mumbai), India",
+      "country": "India",
+      "text": "Sholay was released in 70 mm with stereophonic sound, shot on 35 mm and blown up for the big prints. It is widely called India's first 70 mm stereo film, though the 1967 film Around the World was released that way earlier.",
+      "why": "It showed Indian audiences what big, spread-out cinema sound could do.",
+      "box": "mix",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "25 May 1977",
+      "era": "dolby",
+      "art": "cinema",
+      "key": true,
+      "title": "Star Wars and Dolby Stereo",
+      "who": "Lucasfilm; Dolby Laboratories",
+      "where": "USA",
+      "country": "USA",
+      "text": "Dolby Stereo squeezed four channels (left, centre, right and surround) into the space of one old optical track. First used in 1976, it spread fast after Star Wars showed off its sound in 1977, and many cinemas installed stereo for the first time.",
+      "why": "Stereo and surround became normal in ordinary cinemas, not just a few showcase halls.",
+      "box": "theatre",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1977",
+      "era": "dolby",
+      "art": "soundwave",
+      "title": "Ben Burtt builds sounds from the real world",
+      "who": "Ben Burtt",
+      "where": "Lucasfilm, California, USA",
+      "country": "USA",
+      "text": "For Star Wars, Ben Burtt recorded real things and layered them. The lightsaber hum came from an idling film projector and the buzz of a broken TV set. He won a special Academy Award for the film's alien, creature and robot voices.",
+      "why": "It showed that recorded, layered and pitched sounds could make impossible things feel real.",
+      "box": "design",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1979",
+      "era": "dolby",
+      "art": "word",
+      "key": true,
+      "title": "The first \"sound designer\"",
+      "who": "Walter Murch",
+      "where": "USA",
+      "country": "USA",
+      "text": "Apocalypse Now was the first film to credit anyone as Sound Designer: Walter Murch, who is widely credited with coining the title. Its 70 mm release used three screen channels, a low-frequency channel and split surrounds, the layout now called 5.1.",
+      "why": "Sound became a creative craft with its own leader, and 5.1 became the standard layout.",
+      "box": "design",
+      "sources": [
+        21,
+        22
+      ]
+    },
+    {
+      "year": 1983,
+      "date": "May 1983",
+      "era": "dolby",
+      "art": "cinema",
+      "title": "THX certifies cinemas",
+      "who": "Tomlinson Holman; Lucasfilm",
+      "where": "USA",
+      "country": "USA",
+      "text": "THX was launched with Return of the Jedi. It is not a sound format but a quality standard: a cinema that passes its tests plays a soundtrack the way the mixers heard it.",
+      "why": "It made the room itself part of the sound chain.",
+      "box": "theatre",
+      "sources": [
+        23
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1989–1991",
+      "era": "dolby",
+      "art": "chip",
+      "title": "Sound editing moves to computers",
+      "who": "Digidesign: Evan Brooks and Peter Gotcher",
+      "where": "California, USA",
+      "country": "USA",
+      "text": "Digidesign's Sound Tools (1989), and then Pro Tools (1991), let editors record, cut and mix sound on a computer screen, with any cut undoable. Within a decade most film sound was edited this way.",
+      "why": "Layering hundreds of tracks became quick and cheap.",
+      "box": "design",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "1992",
+      "era": "digital",
+      "art": "digital",
+      "key": true,
+      "title": "Digital sound in the cinema",
+      "who": "Dolby Laboratories",
+      "where": "USA",
+      "country": "USA",
+      "text": "Batman Returns was the first film released with Dolby Digital: 5.1 channels of compressed digital sound printed as blocks between the sprocket holes of the film. DTS (Jurassic Park, 1993) played its sound from a CD kept in step by timecode on the print.",
+      "why": "Clean, discrete 5.1 sound became the cinema standard of the 1990s.",
+      "box": "theatre",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "1998",
+      "era": "digital",
+      "art": "clapper",
+      "title": "How much lip-sync error can we see?",
+      "who": "International Telecommunication Union (ITU)",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "Recommendation ITU-R BT.1359 set out how far sound and picture may drift. Viewers begin to notice when sound is about 45 ms early or 125 ms late, and find it unacceptable beyond about 90 ms early or 185 ms late.",
+      "why": "It gave engineers a clear target for keeping lips and words together.",
+      "box": "adr",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "20 July 2005",
+      "era": "digital",
+      "art": "digital",
+      "title": "Films arrive as files",
+      "who": "Digital Cinema Initiatives (DCI)",
+      "where": "USA",
+      "country": "USA",
+      "text": "The DCI specification defined the Digital Cinema Package. Its audio is uncompressed: 24-bit, 48 or 96 kHz, up to 16 channels in one package with the pictures and subtitles.",
+      "why": "Film prints gave way to hard drives, and the soundtrack lost the noise and wear of film.",
+      "box": "theatre",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "22 February 2009",
+      "era": "digital",
+      "art": "trophy",
+      "key": true,
+      "title": "An Oscar for Resul Pookutty",
+      "who": "Resul Pookutty, with Ian Tapp and Richard Pryke",
+      "where": "Los Angeles, USA",
+      "country": "India",
+      "text": "Resul Pookutty, a sound engineer from Kerala who trained at the Film and Television Institute of India in Pune, won the Academy Award for Best Sound Mixing for Slumdog Millionaire, shared with Ian Tapp and Richard Pryke.",
+      "why": "It put Indian film sound engineers on the world stage.",
+      "box": "mix",
+      "sources": [
+        30,
+        31
+      ]
+    },
+    {
+      "year": 2010,
+      "date": "August 2010",
+      "era": "digital",
+      "art": "soundwave",
+      "title": "Loudness, not peaks",
+      "who": "European Broadcasting Union",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "EBU R 128 told broadcasters to set programmes by measured loudness, −23 LUFS, instead of by their loudest peaks. Streaming services adopted similar targets, such as Netflix's −27 LKFS measured on dialogue.",
+      "why": "It ended the loud-advert problem and gave mixers room for real dynamics.",
+      "box": "mix",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 2012,
+      "date": "June 2012",
+      "era": "digital",
+      "art": "cinema",
+      "key": true,
+      "title": "Dolby Atmos: sound as objects",
+      "who": "Dolby Laboratories",
+      "where": "El Capitan Theatre, Los Angeles, USA",
+      "country": "USA",
+      "text": "Dolby Atmos was first installed for the premiere of Brave. It adds ceiling speakers and treats sounds as objects with a 3D position, up to 128 tracks and 64 speaker feeds. The cinema's processor decides which speakers play each one.",
+      "why": "Mixers could place a sound anywhere in the room, including overhead.",
+      "box": "mix",
+      "sources": [
+        34
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Feature film with synchronised singing and speech",
+      "value": "1927",
+      "who": "The Jazz Singer, USA"
+    },
+    {
+      "label": "Foley performed live to picture",
+      "value": "1929",
+      "who": "Jack Foley, Universal, USA"
+    },
+    {
+      "label": "Indian sound film",
+      "value": "1931",
+      "who": "Alam Ara, Ardeshir Irani, India"
+    },
+    {
+      "label": "Hindi film with playback singing",
+      "value": "1935",
+      "who": "Dhoop Chhaon, Nitin Bose, India"
+    },
+    {
+      "label": "Commercial film released in stereo",
+      "value": "1940",
+      "who": "Fantasia (Fantasound), USA"
+    },
+    {
+      "label": "Screen credit for a “Sound Designer”",
+      "value": "1979",
+      "who": "Walter Murch, Apocalypse Now, USA"
+    },
+    {
+      "label": "Film released in Dolby Digital",
+      "value": "1992",
+      "who": "Batman Returns, USA"
+    },
+    {
+      "label": "Film shown in Dolby Atmos",
+      "value": "2012",
+      "who": "Brave, USA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jack Foley",
+      "life": "1891 – 1967",
+      "role": "Sound effects artist",
+      "from": "USA",
+      "note": "Performed footsteps and props live to picture at Universal; the craft carries his name."
+    },
+    {
+      "name": "Ardeshir Irani",
+      "life": "1886 – 1969",
+      "role": "Director and producer",
+      "from": "India",
+      "note": "Made Alam Ara, India's first sound film, shooting at night to escape train noise."
+    },
+    {
+      "name": "Nitin Bose",
+      "life": "1897 – 1986",
+      "role": "Director and cinematographer",
+      "from": "India",
+      "note": "Came up with playback singing for Bhagya Chakra and Dhoop Chhaon in 1935."
+    },
+    {
+      "name": "Stefan Kudelski",
+      "life": "1929 – 2013",
+      "role": "Engineer",
+      "from": "Poland and Switzerland",
+      "note": "Built the Nagra portable recorders used on film sets for decades."
+    },
+    {
+      "name": "Ray Dolby",
+      "life": "1933 – 2013",
+      "role": "Engineer and founder",
+      "from": "USA",
+      "note": "Invented Dolby noise reduction and founded the company behind Dolby Stereo and Atmos."
+    },
+    {
+      "name": "Walter Murch",
+      "life": "1943 –",
+      "role": "Sound designer and film editor",
+      "from": "USA",
+      "note": "First person credited as a film's Sound Designer, on Apocalypse Now."
+    },
+    {
+      "name": "Ben Burtt",
+      "life": "1948 –",
+      "role": "Sound designer",
+      "from": "USA",
+      "note": "Made the sounds of Star Wars from layered recordings of real things."
+    },
+    {
+      "name": "Resul Pookutty",
+      "life": "1971 –",
+      "role": "Sound designer and mixer",
+      "from": "India",
+      "note": "Won the Oscar for Best Sound Mixing for Slumdog Millionaire."
+    }
+  ],
+  "series": [
+    {
+      "id": "channels",
+      "title": "How many sound tracks a cinema format could carry",
+      "unit": "tracks",
+      "log": true,
+      "after": "digital",
+      "caption": "From a single track to 128 in 85 years. Counts are the separate audio tracks each landmark format carried to the cinema.",
+      "points": [
+        {
+          "year": 1927,
+          "value": 1,
+          "label": "Vitaphone and early sound-on-film: one mono track"
+        },
+        {
+          "year": 1953,
+          "value": 4,
+          "label": "CinemaScope: four magnetic tracks (left, centre, right, surround)"
+        },
+        {
+          "year": 1977,
+          "value": 4,
+          "label": "Dolby Stereo: four channels matrixed into two optical tracks"
+        },
+        {
+          "year": 1979,
+          "value": 6,
+          "label": "Apocalypse Now 70 mm: six tracks, the 5.1 layout"
+        },
+        {
+          "year": 1992,
+          "value": 6,
+          "label": "Dolby Digital: 5.1 discrete digital channels"
+        },
+        {
+          "year": 2005,
+          "value": 16,
+          "label": "DCI digital cinema package: up to 16 uncompressed channels"
+        },
+        {
+          "year": 2012,
+          "value": 128,
+          "label": "Dolby Atmos: up to 128 tracks (bed channels plus objects)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Jack Foley reportedly walked more than 5,000 miles on the Foley stage making footsteps.",
+    "Alam Ara (1931) was shot mostly between 1 and 4 in the morning, because trains ran past the studio.",
+    "Star Wars' lightsaber hum began as an idling film projector plus the buzz of a broken TV set.",
+    "In a big cinema, a seat 30 m from the screen hears the actors about 87 ms after it sees their lips move.",
+    "A cinema screen is full of holes about 1.2 mm wide, so the speakers behind it can be heard."
+  ],
+  "sources": [
+    {
+      "title": "Silent film",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Silent_film"
+    },
+    {
+      "title": "Phono-Cinéma-Théâtre",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phono-Cin%C3%A9ma-Th%C3%A9%C3%A2tre"
+    },
+    {
+      "title": "Phonofilm",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phonofilm"
+    },
+    {
+      "title": "Sound-on-film",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sound-on-film"
+    },
+    {
+      "title": "Vitaphone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vitaphone"
+    },
+    {
+      "title": "The Jazz Singer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Jazz_Singer"
+    },
+    {
+      "title": "Jack Foley",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jack_Foley_(sound_effects_artist)"
+    },
+    {
+      "title": "Foley (filmmaking)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Foley_(filmmaking)"
+    },
+    {
+      "title": "Alam Ara",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alam_Ara"
+    },
+    {
+      "title": "Dhoop Chhaon (1935 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dhoop_Chhaon_(1935_film)"
+    },
+    {
+      "title": "Fantasound",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fantasound"
+    },
+    {
+      "title": "Fantasia (1940 film)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fantasia_(1940_film)"
+    },
+    {
+      "title": "Magnetophon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magnetophon"
+    },
+    {
+      "title": "Nagra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nagra"
+    },
+    {
+      "title": "CinemaScope",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/CinemaScope"
+    },
+    {
+      "title": "Dolby Laboratories",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dolby_Laboratories"
+    },
+    {
+      "title": "Dolby noise-reduction system",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dolby_noise-reduction_system"
+    },
+    {
+      "title": "50 years of Sholay",
+      "publisher": "South Asia Times",
+      "url": "https://www.southasiatimes.com.au/entertainment-sports/cinema/sholay/"
+    },
+    {
+      "title": "Sholay",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sholay"
+    },
+    {
+      "title": "Dolby Stereo",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dolby_Stereo"
+    },
+    {
+      "title": "Ben Burtt",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ben_Burtt"
+    },
+    {
+      "title": "Walter Murch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Walter_Murch"
+    },
+    {
+      "title": "Sound design",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sound_design"
+    },
+    {
+      "title": "THX",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/THX"
+    },
+    {
+      "title": "Pro Tools",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pro_Tools"
+    },
+    {
+      "title": "Dolby Digital",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dolby_Digital"
+    },
+    {
+      "title": "DTS (company)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DTS_(company)"
+    },
+    {
+      "title": "Recommendation ITU-R BT.1359-1",
+      "publisher": "ITU",
+      "url": "https://www.itu.int/rec/R-REC-BT.1359/en"
+    },
+    {
+      "title": "Digital Cinema Initiatives",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digital_Cinema_Initiatives"
+    },
+    {
+      "title": "Digital Cinema Package",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Digital_Cinema_Package"
+    },
+    {
+      "title": "Resul Pookutty",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Resul_Pookutty"
+    },
+    {
+      "title": "The 81st Academy Awards (2009)",
+      "publisher": "Academy of Motion Picture Arts and Sciences",
+      "url": "https://www.oscars.org/oscars/ceremonies/2009"
+    },
+    {
+      "title": "EBU R 128",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/EBU_R_128"
+    },
+    {
+      "title": "Netflix Sound Mix Specifications & Best Practices",
+      "publisher": "Netflix Partner Help Center",
+      "url": "https://partnerhelp.netflixstudios.com/hc/en-us/articles/360001794307-Netflix-Sound-Mix-Specifications-Best-Practices-v1-6"
+    },
+    {
+      "title": "Dolby Atmos",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dolby_Atmos"
+    }
+  ]
+}

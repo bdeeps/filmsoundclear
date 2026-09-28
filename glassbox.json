@@ -1,0 +1,127 @@
+{
+  "slug": "filmsoundclear",
+  "box": 57,
+  "date": "2026-10-15",
+  "title": "FilmSoundClear",
+  "question": "How do film sound and Foley work?",
+  "hook": "Most of what you hear in a film was never recorded on set. Hang a boom mic just out of shot, snap celery for breaking bones, build a monster's roar from three layers, re-voice a line in sync, and fly a helicopter over your head in Dolby Atmos.",
+  "thumbText": "HOW FILM SOUND WORKS",
+  "field": "film",
+  "minutes": 15,
+  "tags": [
+    "film sound",
+    "sound design",
+    "Foley",
+    "Jack Foley",
+    "boom microphone",
+    "shotgun microphone",
+    "lavalier",
+    "polar pattern",
+    "inverse square law",
+    "signal-to-noise ratio",
+    "room tone",
+    "sound effects",
+    "layering",
+    "Doppler effect",
+    "ADR",
+    "dubbing",
+    "lip sync",
+    "mixing",
+    "stems",
+    "ducking",
+    "LUFS",
+    "loudness",
+    "5.1 surround",
+    "7.1 surround",
+    "Dolby Atmos",
+    "cinema sound",
+    "perforated screen",
+    "DCP",
+    "Indian cinema",
+    "Web Audio",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Voices on set",
+      "text": "A shotgun mic on a boom hangs just above the frame, as close to the mouth as the shot allows. Sound power falls with the square of distance: twice as far is 6 dB quieter, while the background noise stays the same. Actors also wear hidden lavalier mics, and the crew records 30 seconds of room tone."
+    },
+    {
+      "title": "Foley",
+      "text": "Footsteps, rustling clothes and small props are added later by Foley artists who watch the film and perform in sync, named after Jack Foley at Universal from 1929. Celery snaps make breaking bones, coconut shells make hooves, and a punched cabbage makes a punch."
+    },
+    {
+      "title": "Sound design",
+      "text": "Sounds that cannot be recorded are built from layers: a low rumble for weight, a mid growl for character and a high screech for bite. Designers pitch-shift, reverse and move them. A passing ship rises then falls in pitch: the Doppler effect."
+    },
+    {
+      "title": "ADR and dubbing",
+      "text": "Noisy or weak lines are re-recorded in a booth to the picture: three beeps, then speak on the fourth. Viewers notice sound more than about 45 ms early or 125 ms late. Dubbing re-voices a whole film in another language, and India's biggest hits are released in five or more languages."
+    },
+    {
+      "title": "The mix",
+      "text": "On a dubbing stage, mixers balance five stems: dialogue, music, effects, Foley and ambience, ducking the music under the words. Streaming targets about −27 LUFS of dialogue; cinemas are calibrated instead. 5.1 and 7.1 feed fixed speakers, while Dolby Atmos places sound objects anywhere, even overhead."
+    },
+    {
+      "title": "In the cinema",
+      "text": "The film arrives as a Digital Cinema Package with up to 16 uncompressed channels. A processor and amplifiers drive speakers that stand behind a screen full of holes about 1.2 mm wide. Sound takes about 3 ms per metre, so the back row hears a little later, and phone speakers lose the deep bass."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Production sound",
+      "def": "The dialogue and sound recorded on set while filming."
+    },
+    {
+      "term": "Polar pattern",
+      "def": "How sensitive a microphone is in each direction; a shotgun hears mostly straight ahead."
+    },
+    {
+      "term": "Inverse-square law",
+      "def": "Sound power falls with the square of distance: 6 dB less for each doubling."
+    },
+    {
+      "term": "Foley",
+      "def": "Everyday sounds performed live in sync with the picture after filming."
+    },
+    {
+      "term": "Layering",
+      "def": "Stacking several sounds so they play as one bigger sound."
+    },
+    {
+      "term": "ADR",
+      "def": "Automated dialogue replacement: re-recording lines in a studio to match the lips on screen."
+    },
+    {
+      "term": "Stem",
+      "def": "One group of sounds in a mix, such as all the dialogue or all the music."
+    },
+    {
+      "term": "LUFS",
+      "def": "A measure of how loud a mix feels, used to set loudness targets."
+    },
+    {
+      "term": "Dolby Atmos",
+      "def": "Cinema sound with ceiling speakers where each sound is an object with a 3D position."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "filmsoundclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

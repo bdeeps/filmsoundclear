@@ -1,0 +1,126 @@
+{
+  "slug": "filmsoundclear",
+  "box": 57,
+  "question": "How do film sound and Foley work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/filmsoundclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/filmsoundclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "A century from pianists in the dark to helicopters flying over your head in Dolby Atmos.\n\n1927: The Jazz Singer talks\n1929: Jack Foley performs sound to picture\n1931: India's first talkie: Alam Ara\n1940: Fantasound surrounds the audience\n1977: Star Wars and Dolby Stereo\n1979: The first \"sound designer\"\n\nThe full story, with 25 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/filmsoundclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/filmsoundclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #filmsound #sounddesign #foley #jackfoley #boommicrophone #shotgunmicrophone #history",
+      "youtube": {
+        "title": "The history of film sound in 45 seconds #shorts",
+        "description": "A century from pianists in the dark to helicopters flying over your head in Dolby Atmos.\n\n1927 · The Jazz Singer talks (Warner Bros.; Al Jolson)\n1929 · Jack Foley performs sound to picture (Jack Foley)\n1931 · India's first talkie: Alam Ara (Ardeshir Irani)\n1940 · Fantasound surrounds the audience (Walt Disney Studios and RCA)\n1977 · Star Wars and Dolby Stereo (Lucasfilm; Dolby Laboratories)\n1979 · The first \"sound designer\" (Walter Murch)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/filmsoundclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/filmsoundclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How do film sound and Foley work?\n\nMost of what you hear in a film was never recorded on set. Hang a boom mic just out of shot, snap celery for breaking bones, build a monster's roar from three layers, re-voice a line in sync, and fly a helicopter over your head in Dolby Atmos.\n\n→ On set, a boom mic hangs just out of frame, as close to the mouth as the shot allows.\n→ Double the distance and the voice drops 6 dB, but the street noise stays the same.\n→ Foley artists perform footsteps in pits of gravel, wood and concrete, in time with the picture.\n→ A snapped stick of celery becomes a breaking bone. Coconut shells become hooves.\n→ A monster roar is built from layers: a low rumble, a mid growl and a high screech.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/filmsoundclear (link in bio)\n\nBox No. 057 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #filmsound #sounddesign #foley #jackfoley #boommicrophone #shotgunmicrophone #lavalier #polarpattern #inversesquarelaw",
+    "carousel": "Swipe through: How do film sound and Foley work?\n\nMost of what you hear in a film was never recorded on set. Hang a boom mic just out of shot, snap celery for breaking bones, build a monster's roar from three layers, re-voice a line in sync, and fly a helicopter over your head in Dolby Atmos.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/filmsoundclear (link in bio).\n\nBox No. 057 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #filmsound #sounddesign #foley #jackfoley #boommicrophone #shotgunmicrophone",
+    "youtube": {
+      "title": "How do film sound and Foley work? #shorts",
+      "description": "Most of what you hear in a film was never recorded on set. Hang a boom mic just out of shot, snap celery for breaking bones, build a monster's roar from three layers, re-voice a line in sync, and fly a helicopter over your head in Dolby Atmos.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/filmsoundclear/\n⌘ Source code (MIT): https://github.com/bdeeps/filmsoundclear\n\nBox No. 057 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How do film sound and Foley work? (interactive explainer)",
+      "description": "Most of what you hear in a film was never recorded on set. Hang a boom mic just out of shot, snap celery for breaking bones, build a monster's roar from three layers, re-voice a line in sync, and fly a helicopter over your head in Dolby Atmos.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/filmsoundclear/\n⌘ Source code (MIT): https://github.com/bdeeps/filmsoundclear\n\nIn this video:\n• Voices on set. A shotgun mic on a boom hangs just above the frame, as close to the mouth as the shot allows.\n• Foley. Footsteps, rustling clothes and small props are added later by Foley artists who watch the film and perform in sync, named after Jack Foley at Universal from 1929.\n• Sound design. Sounds that cannot be recorded are built from layers: a low rumble for weight, a mid growl for character and a high screech for bite.\n• ADR and dubbing. Noisy or weak lines are re-recorded in a booth to the picture: three beeps, then speak on the fourth.\n• The mix. On a dubbing stage, mixers balance five stems: dialogue, music, effects, Foley and ambience, ducking the music under the words.\n• In the cinema. The film arrives as a Digital Cinema Package with up to 16 uncompressed channels.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How do film sound and Foley work?\n\nMost of what you hear in a film was never recorded on set.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/filmsoundclear/",
+    "linkedin": "How do film sound and Foley work?\n\nMost of what you hear in a film was never recorded on set. Hang a boom mic just out of shot, snap celery for breaking bones, build a monster's roar from three layers, re-voice a line in sync, and fly a helicopter over your head in Dolby Atmos.\n\n1. Voices on set\n2. Foley\n3. Sound design\n4. ADR and dubbing\n5. The mix\n6. In the cinema\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 057 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/filmsoundclear/\nCode: https://github.com/bdeeps/filmsoundclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T02:04:13.734Z"
+}
